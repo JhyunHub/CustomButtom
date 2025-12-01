@@ -3,7 +3,7 @@ C# WinForm CustomButtom
 
 1. 둥근 버튼 (Radius)
 2. 그라데이션 (UseGradient -> 색상 2개)
-3. 아이콘 포함 (IconImage, IconSize, iconGap)
+3. 아이콘 포함 (IconImage, IconSize, IconGap)
 4 .Hover 애니메이션 효과
 5. Disabled 스타일
 6. 테두리 강조 (BorderSize, BorderColor)
